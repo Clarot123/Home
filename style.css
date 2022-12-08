@@ -1,0 +1,14 @@
+#button1{
+    background-color: yellow;
+    height: 50px;
+    width: 160px;
+    border-radius: 40px;
+    border: none;
+    font-family: 'Dosis', sans-serif;
+    cursor: pointer;
+}
+#div1{
+    background-color: black;
+    height: 30px;
+    width: 90px;
+}
